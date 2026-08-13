@@ -15,4 +15,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0509-fibonacci-number](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
