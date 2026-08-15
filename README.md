@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0134-gas-station) |
+| [0406-queue-reconstruction-by-height](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 ## Greedy
 |  |
 | ------- |
@@ -28,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
+## Sorting
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
