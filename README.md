@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0406-queue-reconstruction-by-height](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [0846-hand-of-straights](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0134-gas-station) |
+| [0846-hand-of-straights](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,4 +43,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [0846-hand-of-straights](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
+## Hash Table
+|  |
+| ------- |
+| [0846-hand-of-straights](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 <!---LeetCode Topics End-->
