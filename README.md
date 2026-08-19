@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0406-queue-reconstruction-by-height](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0846-hand-of-straights](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 ## Greedy
@@ -44,10 +45,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0406-queue-reconstruction-by-height](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0846-hand-of-straights](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0846-hand-of-straights](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
