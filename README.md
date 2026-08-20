@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0509-fibonacci-number](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
