@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0406-queue-reconstruction-by-height](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0846-hand-of-straights](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Greedy
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0846-hand-of-straights](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
