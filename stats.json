@@ -66,6 +66,20 @@
     "solved": 8
   },
   "problems": {
+    "3069": {
+      "id": "3069",
+      "title": "Distribute Elements Into Two Arrays I",
+      "slug": "distribute-elements-into-two-arrays-i",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Simulation"
+      ],
+      "folder": "3069-distribute-elements-into-two-arrays-i",
+      "solutions": {
+        "Java": "leetcode/problems/3069-distribute-elements-into-two-arrays-i/Solution.java"
+      }
+    },
     "3471": {
       "id": "3471",
       "title": "Find the Largest Almost Missing Integer",
