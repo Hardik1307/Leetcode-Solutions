@@ -1,71 +1,24 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0055-jump-game](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0055-jump-game) |
-| [0118-pascals-triangle](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
-| [0134-gas-station](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0134-gas-station) |
-| [0169-majority-element](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0169-majority-element) |
-| [0406-queue-reconstruction-by-height](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
-| [0846-hand-of-straights](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
-| [3471-find-the-largest-almost-missing-integer](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
-## Greedy
-|  |
-| ------- |
-| [0055-jump-game](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0055-jump-game) |
-| [0134-gas-station](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0134-gas-station) |
-| [0846-hand-of-straights](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0055-jump-game](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0055-jump-game) |
-| [0118-pascals-triangle](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
-| [0509-fibonacci-number](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
-## Math
-|  |
-| ------- |
-| [0172-factorial-trailing-zeroes](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
-| [0509-fibonacci-number](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
-## Recursion
-|  |
-| ------- |
-| [0509-fibonacci-number](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
-## Memoization
-|  |
-| ------- |
-| [0509-fibonacci-number](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
-## Binary Indexed Tree
-|  |
-| ------- |
-| [0406-queue-reconstruction-by-height](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
-## Segment Tree
-|  |
-| ------- |
-| [0406-queue-reconstruction-by-height](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
-## Sorting
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0169-majority-element) |
-| [0406-queue-reconstruction-by-height](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
-| [0846-hand-of-straights](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
-## Hash Table
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0169-majority-element) |
-| [0846-hand-of-straights](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
-| [3471-find-the-largest-almost-missing-integer](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0169-majority-element) |
-## Counting
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0169-majority-element) |
-## Boyer–Moore Majority Vote Algorithm
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0169-majority-element) |
-<!---LeetCode Topics End-->
+# LeetCode Solutions
+
+A structured repository of LeetCode solutions, automatically synchronized and categorized by topic using [LeetSync](https://github.com/arunbhardwaj/LeetHub-2.0).
+
+## Progress Dashboard
+![Total Solved](https://img.shields.io/badge/Solved-1-blue) ![Easy](https://img.shields.io/badge/Easy-1-brightgreen) ![Medium](https://img.shields.io/badge/Medium-0-orange) ![Hard](https://img.shields.io/badge/Hard-0-red)
+
+## Topics
+[Array](#array) | [Hash Table](#hash-table)
+
+---
+
+### Array
+
+| # | Title | Difficulty | Solutions |
+|---|---|---|---|
+| 3471 | [Find the Largest Almost Missing Integer](3471-find-the-largest-almost-missing-integer/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/3471-find-the-largest-almost-missing-integer/Solution.java) |
+
+### Hash Table
+
+| # | Title | Difficulty | Solutions |
+|---|---|---|---|
+| 3471 | [Find the Largest Almost Missing Integer](3471-find-the-largest-almost-missing-integer/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/3471-find-the-largest-almost-missing-integer/Solution.java) |
+
