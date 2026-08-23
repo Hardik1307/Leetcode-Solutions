@@ -79,6 +79,19 @@
       "solutions": {
         "Java": "leetcode/problems/3471-find-the-largest-almost-missing-integer/Solution.java"
       }
+    },
+    "0172": {
+      "id": "0172",
+      "title": "Factorial Trailing Zeroes",
+      "slug": "factorial-trailing-zeroes",
+      "difficulty": "Medium",
+      "tags": [
+        "Math"
+      ],
+      "folder": "0172-factorial-trailing-zeroes",
+      "solutions": {
+        "Java": "leetcode/problems/0172-factorial-trailing-zeroes/Solution.java"
+      }
     }
   }
 }
