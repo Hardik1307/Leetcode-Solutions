@@ -94,6 +94,19 @@
         "Java": "leetcode/problems/3471-find-the-largest-almost-missing-integer/Solution.java"
       }
     },
+    "3622": {
+      "id": "3622",
+      "title": "Check Divisibility by Digit Sum and Product",
+      "slug": "check-divisibility-by-digit-sum-and-product",
+      "difficulty": "Easy",
+      "tags": [
+        "Math"
+      ],
+      "folder": "3622-check-divisibility-by-digit-sum-and-product",
+      "solutions": {
+        "Java": "leetcode/problems/3622-check-divisibility-by-digit-sum-and-product/Solution.java"
+      }
+    },
     "0172": {
       "id": "0172",
       "title": "Factorial Trailing Zeroes",
