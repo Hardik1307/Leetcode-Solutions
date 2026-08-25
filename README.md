@@ -3,56 +3,34 @@
 A structured repository of LeetCode solutions, automatically synchronized and categorized by topic using [LeetSync](https://github.com/arunbhardwaj/LeetHub-2.0).
 
 ## Progress Dashboard
-![Total Solved](https://img.shields.io/badge/Solved-4-blue) ![Easy](https://img.shields.io/badge/Easy-3-brightgreen) ![Medium](https://img.shields.io/badge/Medium-1-orange) ![Hard](https://img.shields.io/badge/Hard-0-red)
+![Total Solved](https://img.shields.io/badge/Solved-1-blue) ![Easy](https://img.shields.io/badge/Easy-1-brightgreen) ![Medium](https://img.shields.io/badge/Medium-0-orange) ![Hard](https://img.shields.io/badge/Hard-0-red)
 
 ## Topics
-[Array](#array) | [Hash Table](#hash-table) | [Math](#math) | [Simulation](#simulation)
+[Binary Tree](#binary-tree) | [Depth-First Search](#depthfirst-search) | [Stack](#stack) | [Tree](#tree)
 
 ---
 
-### Array
+### Binary Tree
 
 | # | Title | Difficulty | Solutions |
 |---|---|---|---|
-| 3069 | [Distribute Elements Into Two Arrays I](3069-distribute-elements-into-two-arrays-i/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/3069-distribute-elements-into-two-arrays-i/Solution.java) |
-| 3471 | [Find the Largest Almost Missing Integer](3471-find-the-largest-almost-missing-integer/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/3471-find-the-largest-almost-missing-integer/Solution.java) |
+| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0145-binary-tree-postorder-traversal/Solution.java) |
 
-### Hash Table
-
-| # | Title | Difficulty | Solutions |
-|---|---|---|---|
-| 3471 | [Find the Largest Almost Missing Integer](3471-find-the-largest-almost-missing-integer/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/3471-find-the-largest-almost-missing-integer/Solution.java) |
-
-### Math
+### Depth-First Search
 
 | # | Title | Difficulty | Solutions |
 |---|---|---|---|
-| 0172 | [Factorial Trailing Zeroes](0172-factorial-trailing-zeroes/) | <span style="color:#f1c40f">Medium</span> | [Java](leetcode/problems/0172-factorial-trailing-zeroes/Solution.java) |
-| 3622 | [Check Divisibility by Digit Sum and Product](3622-check-divisibility-by-digit-sum-and-product/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/3622-check-divisibility-by-digit-sum-and-product/Solution.java) |
+| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0145-binary-tree-postorder-traversal/Solution.java) |
 
-### Simulation
+### Stack
 
 | # | Title | Difficulty | Solutions |
 |---|---|---|---|
-| 3069 | [Distribute Elements Into Two Arrays I](3069-distribute-elements-into-two-arrays-i/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/3069-distribute-elements-into-two-arrays-i/Solution.java) |
+| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0145-binary-tree-postorder-traversal/Solution.java) |
 
+### Tree
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Stack
-|  |
-| ------- |
-| [0144-binary-tree-preorder-traversal](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
-## Tree
-|  |
-| ------- |
-| [0144-binary-tree-preorder-traversal](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
-## Depth-First Search
-|  |
-| ------- |
-| [0144-binary-tree-preorder-traversal](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
-## Binary Tree
-|  |
-| ------- |
-| [0144-binary-tree-preorder-traversal](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
-<!---LeetCode Topics End-->
+| # | Title | Difficulty | Solutions |
+|---|---|---|---|
+| 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0145-binary-tree-postorder-traversal/Solution.java) |
+
