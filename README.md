@@ -36,3 +36,23 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 |---|---|---|---|
 | 3069 | [Distribute Elements Into Two Arrays I](3069-distribute-elements-into-two-arrays-i/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/3069-distribute-elements-into-two-arrays-i/Solution.java) |
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+<!---LeetCode Topics End-->
