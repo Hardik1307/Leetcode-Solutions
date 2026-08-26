@@ -90,6 +90,20 @@
       "solutions": {
         "Java": "leetcode/problems/0145-binary-tree-postorder-traversal/Solution.java"
       }
+    },
+    "0190": {
+      "id": "0190",
+      "title": "Reverse Bits",
+      "slug": "reverse-bits",
+      "difficulty": "Easy",
+      "tags": [
+        "Divide and Conquer",
+        "Bit Manipulation"
+      ],
+      "folder": "0190-reverse-bits",
+      "solutions": {
+        "Java": "leetcode/problems/0190-reverse-bits/Solution.java"
+      }
     }
   }
 }
