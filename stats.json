@@ -104,6 +104,22 @@
       "solutions": {
         "Java": "leetcode/problems/0190-reverse-bits/Solution.java"
       }
+    },
+    "0094": {
+      "id": "0094",
+      "title": "Binary Tree Inorder Traversal",
+      "slug": "binary-tree-inorder-traversal",
+      "difficulty": "Easy",
+      "tags": [
+        "Stack",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "folder": "0094-binary-tree-inorder-traversal",
+      "solutions": {
+        "Java": "leetcode/problems/0094-binary-tree-inorder-traversal/Solution.java"
+      }
     }
   }
 }
