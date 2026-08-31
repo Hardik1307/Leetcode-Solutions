@@ -50,3 +50,11 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 | 0094 | [Binary Tree Inorder Traversal](0094-binary-tree-inorder-traversal/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0094-binary-tree-inorder-traversal/Solution.java) |
 | 0145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0145-binary-tree-postorder-traversal/Solution.java) |
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+<!---LeetCode Topics End-->
