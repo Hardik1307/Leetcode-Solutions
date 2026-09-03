@@ -84,6 +84,20 @@
     "solved": 10
   },
   "problems": {
+    "2904": {
+      "id": "2904",
+      "title": "Shortest and Lexicographically Smallest Beautiful String",
+      "slug": "shortest-and-lexicographically-smallest-beautiful-string",
+      "difficulty": "Medium",
+      "tags": [
+        "String",
+        "Sliding Window"
+      ],
+      "folder": "2904-shortest-and-lexicographically-smallest-beautiful-string",
+      "solutions": {
+        "Java": "leetcode/problems/2904-shortest-and-lexicographically-smallest-beautiful-string/Solution.java"
+      }
+    },
     "3718": {
       "id": "3718",
       "title": "Smallest Missing Multiple of K",
