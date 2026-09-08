@@ -112,6 +112,19 @@
         "Java": "leetcode/problems/3718-smallest-missing-multiple-of-k/Solution.java"
       }
     },
+    "3870": {
+      "id": "3870",
+      "title": "Count Commas in Range",
+      "slug": "count-commas-in-range",
+      "difficulty": "Easy",
+      "tags": [
+        "Math"
+      ],
+      "folder": "3870-count-commas-in-range",
+      "solutions": {
+        "Java": "leetcode/problems/3870-count-commas-in-range/Solution.java"
+      }
+    },
     "3875": {
       "id": "3875",
       "title": "Construct Uniform Parity Array I",
