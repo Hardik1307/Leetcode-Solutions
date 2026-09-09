@@ -3,7 +3,7 @@
 A structured repository of LeetCode solutions, automatically synchronized and categorized by topic using [LeetSync](https://github.com/arunbhardwaj/LeetHub-2.0).
 
 ## Progress Dashboard
-![Total Solved](https://img.shields.io/badge/Solved-4-blue) ![Easy](https://img.shields.io/badge/Easy-3-brightgreen) ![Medium](https://img.shields.io/badge/Medium-1-orange) ![Hard](https://img.shields.io/badge/Hard-0-red)
+![Total Solved](https://img.shields.io/badge/Solved-5-blue) ![Easy](https://img.shields.io/badge/Easy-3-brightgreen) ![Medium](https://img.shields.io/badge/Medium-2-orange) ![Hard](https://img.shields.io/badge/Hard-0-red)
 
 ## Topics
 [Array](#array) | [Hash Table](#hash-table) | [Math](#math) | [Sliding Window](#sliding-window) | [String](#string)
@@ -28,6 +28,7 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 | # | Title | Difficulty | Solutions |
 |---|---|---|---|
 | 3870 | [Count Commas in Range](3870-count-commas-in-range/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/3870-count-commas-in-range/Solution.java) |
+| 3871 | [Count Commas in Range II](3871-count-commas-in-range-ii/) | <span style="color:#f1c40f">Medium</span> | [Java](leetcode/problems/3871-count-commas-in-range-ii/Solution.java) |
 | 3875 | [Construct Uniform Parity Array I](3875-construct-uniform-parity-array-i/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/3875-construct-uniform-parity-array-i/Solution.java) |
 
 ### Sliding Window
