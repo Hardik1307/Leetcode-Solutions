@@ -43,3 +43,19 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 |---|---|---|---|
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](2904-shortest-and-lexicographically-smallest-beautiful-string/) | <span style="color:#f1c40f">Medium</span> | [Java](leetcode/problems/2904-shortest-and-lexicographically-smallest-beautiful-string/Solution.java) |
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+<!---LeetCode Topics End-->
