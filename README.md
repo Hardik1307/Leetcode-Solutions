@@ -34,3 +34,19 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 |---|---|---|---|
 | 0111 | [Minimum Depth of Binary Tree](0111-minimum-depth-of-binary-tree/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0111-minimum-depth-of-binary-tree/Solution.java) |
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0231-power-of-two) |
+<!---LeetCode Topics End-->
