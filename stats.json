@@ -128,6 +128,22 @@
       "solutions": {
         "Java": "leetcode/problems/0231-power-of-two/Solution.java"
       }
+    },
+    "0100": {
+      "id": "0100",
+      "title": "Same Tree",
+      "slug": "same-tree",
+      "difficulty": "Easy",
+      "tags": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "folder": "0100-same-tree",
+      "solutions": {
+        "Java": "leetcode/problems/0100-same-tree/Solution.java"
+      }
     }
   }
 }
