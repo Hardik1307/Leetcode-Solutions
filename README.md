@@ -28,3 +28,23 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 |---|---|---|---|
 | 0231 | [Power of Two](0231-power-of-two/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0231-power-of-two/Solution.java) |
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Hardik1307/Leetcode-Solutions/tree/master/0100-same-tree) |
+<!---LeetCode Topics End-->
