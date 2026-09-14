@@ -144,6 +144,20 @@
       "solutions": {
         "Java": "leetcode/problems/0100-same-tree/Solution.java"
       }
+    },
+    "0836": {
+      "id": "0836",
+      "title": "Rectangle Overlap",
+      "slug": "rectangle-overlap",
+      "difficulty": "Easy",
+      "tags": [
+        "Math",
+        "Geometry"
+      ],
+      "folder": "0836-rectangle-overlap",
+      "solutions": {
+        "Java": "leetcode/problems/0836-rectangle-overlap/Solution.java"
+      }
     }
   }
 }
