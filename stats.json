@@ -158,6 +158,19 @@
       "solutions": {
         "Java": "leetcode/problems/0836-rectangle-overlap/Solution.java"
       }
+    },
+    "0195": {
+      "id": "0195",
+      "title": "Tenth Line",
+      "slug": "tenth-line",
+      "difficulty": "Easy",
+      "tags": [
+        "Shell"
+      ],
+      "folder": "0195-tenth-line",
+      "solutions": {
+        "bash": "leetcode/problems/0195-tenth-line/Solution.txt"
+      }
     }
   }
 }
