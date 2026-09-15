@@ -3,10 +3,10 @@
 A structured repository of LeetCode solutions, automatically synchronized and categorized by topic using [LeetSync](https://github.com/arunbhardwaj/LeetHub-2.0).
 
 ## Progress Dashboard
-![Total Solved](https://img.shields.io/badge/Solved-3-blue) ![Easy](https://img.shields.io/badge/Easy-3-brightgreen) ![Medium](https://img.shields.io/badge/Medium-0-orange) ![Hard](https://img.shields.io/badge/Hard-0-red)
+![Total Solved](https://img.shields.io/badge/Solved-4-blue) ![Easy](https://img.shields.io/badge/Easy-4-brightgreen) ![Medium](https://img.shields.io/badge/Medium-0-orange) ![Hard](https://img.shields.io/badge/Hard-0-red)
 
 ## Topics
-[Binary Tree](#binary-tree) | [Bit Manipulation](#bit-manipulation) | [Breadth-First Search](#breadthfirst-search) | [Depth-First Search](#depthfirst-search) | [Geometry](#geometry) | [Math](#math) | [Recursion](#recursion) | [Tree](#tree)
+[Binary Tree](#binary-tree) | [Bit Manipulation](#bit-manipulation) | [Breadth-First Search](#breadthfirst-search) | [Depth-First Search](#depthfirst-search) | [Geometry](#geometry) | [Math](#math) | [Recursion](#recursion) | [Shell](#shell) | [Tree](#tree)
 
 ---
 
@@ -52,6 +52,12 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 | # | Title | Difficulty | Solutions |
 |---|---|---|---|
 | 0231 | [Power of Two](0231-power-of-two/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0231-power-of-two/Solution.java) |
+
+### Shell
+
+| # | Title | Difficulty | Solutions |
+|---|---|---|---|
+| 0195 | [Tenth Line](0195-tenth-line/) | <span style="color:#2cbb5d">Easy</span> | [bash](leetcode/problems/0195-tenth-line/Solution.txt) |
 
 ### Tree
 
