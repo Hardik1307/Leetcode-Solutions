@@ -3,10 +3,10 @@
 A structured repository of LeetCode solutions, automatically synchronized and categorized by topic using [LeetSync](https://github.com/arunbhardwaj/LeetHub-2.0).
 
 ## Progress Dashboard
-![Total Solved](https://img.shields.io/badge/Solved-5-blue) ![Easy](https://img.shields.io/badge/Easy-5-brightgreen) ![Medium](https://img.shields.io/badge/Medium-0-orange) ![Hard](https://img.shields.io/badge/Hard-0-red)
+![Total Solved](https://img.shields.io/badge/Solved-6-blue) ![Easy](https://img.shields.io/badge/Easy-6-brightgreen) ![Medium](https://img.shields.io/badge/Medium-0-orange) ![Hard](https://img.shields.io/badge/Hard-0-red)
 
 ## Topics
-[Array](#array) | [Binary Tree](#binary-tree) | [Bit Manipulation](#bit-manipulation) | [Breadth-First Search](#breadthfirst-search) | [Depth-First Search](#depthfirst-search) | [Geometry](#geometry) | [Hash Table](#hash-table) | [Math](#math) | [Recursion](#recursion) | [Shell](#shell) | [Sorting](#sorting) | [Tree](#tree)
+[Array](#array) | [Binary Tree](#binary-tree) | [Bit Manipulation](#bit-manipulation) | [Breadth-First Search](#breadthfirst-search) | [Depth-First Search](#depthfirst-search) | [Geometry](#geometry) | [Hash Table](#hash-table) | [Math](#math) | [Recursion](#recursion) | [Shell](#shell) | [Sliding Window](#sliding-window) | [Sorting](#sorting) | [Tree](#tree)
 
 ---
 
@@ -15,6 +15,7 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 | # | Title | Difficulty | Solutions |
 |---|---|---|---|
 | 0217 | [Contains Duplicate](0217-contains-duplicate/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0217-contains-duplicate/Solution.java) |
+| 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0219-contains-duplicate-ii/Solution.java) |
 
 ### Binary Tree
 
@@ -51,6 +52,7 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 | # | Title | Difficulty | Solutions |
 |---|---|---|---|
 | 0217 | [Contains Duplicate](0217-contains-duplicate/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0217-contains-duplicate/Solution.java) |
+| 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0219-contains-duplicate-ii/Solution.java) |
 
 ### Math
 
@@ -70,6 +72,12 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 | # | Title | Difficulty | Solutions |
 |---|---|---|---|
 | 0195 | [Tenth Line](0195-tenth-line/) | <span style="color:#2cbb5d">Easy</span> | [bash](leetcode/problems/0195-tenth-line/Solution.txt) |
+
+### Sliding Window
+
+| # | Title | Difficulty | Solutions |
+|---|---|---|---|
+| 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0219-contains-duplicate-ii/Solution.java) |
 
 ### Sorting
 
