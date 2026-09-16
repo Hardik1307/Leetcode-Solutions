@@ -3,12 +3,18 @@
 A structured repository of LeetCode solutions, automatically synchronized and categorized by topic using [LeetSync](https://github.com/arunbhardwaj/LeetHub-2.0).
 
 ## Progress Dashboard
-![Total Solved](https://img.shields.io/badge/Solved-4-blue) ![Easy](https://img.shields.io/badge/Easy-4-brightgreen) ![Medium](https://img.shields.io/badge/Medium-0-orange) ![Hard](https://img.shields.io/badge/Hard-0-red)
+![Total Solved](https://img.shields.io/badge/Solved-5-blue) ![Easy](https://img.shields.io/badge/Easy-5-brightgreen) ![Medium](https://img.shields.io/badge/Medium-0-orange) ![Hard](https://img.shields.io/badge/Hard-0-red)
 
 ## Topics
-[Binary Tree](#binary-tree) | [Bit Manipulation](#bit-manipulation) | [Breadth-First Search](#breadthfirst-search) | [Depth-First Search](#depthfirst-search) | [Geometry](#geometry) | [Math](#math) | [Recursion](#recursion) | [Shell](#shell) | [Tree](#tree)
+[Array](#array) | [Binary Tree](#binary-tree) | [Bit Manipulation](#bit-manipulation) | [Breadth-First Search](#breadthfirst-search) | [Depth-First Search](#depthfirst-search) | [Geometry](#geometry) | [Hash Table](#hash-table) | [Math](#math) | [Recursion](#recursion) | [Shell](#shell) | [Sorting](#sorting) | [Tree](#tree)
 
 ---
+
+### Array
+
+| # | Title | Difficulty | Solutions |
+|---|---|---|---|
+| 0217 | [Contains Duplicate](0217-contains-duplicate/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0217-contains-duplicate/Solution.java) |
 
 ### Binary Tree
 
@@ -40,6 +46,12 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 |---|---|---|---|
 | 0836 | [Rectangle Overlap](0836-rectangle-overlap/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0836-rectangle-overlap/Solution.java) |
 
+### Hash Table
+
+| # | Title | Difficulty | Solutions |
+|---|---|---|---|
+| 0217 | [Contains Duplicate](0217-contains-duplicate/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0217-contains-duplicate/Solution.java) |
+
 ### Math
 
 | # | Title | Difficulty | Solutions |
@@ -58,6 +70,12 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 | # | Title | Difficulty | Solutions |
 |---|---|---|---|
 | 0195 | [Tenth Line](0195-tenth-line/) | <span style="color:#2cbb5d">Easy</span> | [bash](leetcode/problems/0195-tenth-line/Solution.txt) |
+
+### Sorting
+
+| # | Title | Difficulty | Solutions |
+|---|---|---|---|
+| 0217 | [Contains Duplicate](0217-contains-duplicate/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0217-contains-duplicate/Solution.java) |
 
 ### Tree
 
