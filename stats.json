@@ -201,6 +201,23 @@
       "solutions": {
         "Java": "leetcode/problems/0219-contains-duplicate-ii/Solution.java"
       }
+    },
+    "0220": {
+      "id": "0220",
+      "title": "Contains Duplicate III",
+      "slug": "contains-duplicate-iii",
+      "difficulty": "Hard",
+      "tags": [
+        "Array",
+        "Sliding Window",
+        "Sorting",
+        "Bucket Sort",
+        "Ordered Set"
+      ],
+      "folder": "0220-contains-duplicate-iii",
+      "solutions": {
+        "Java": "leetcode/problems/0220-contains-duplicate-iii/Solution.java"
+      }
     }
   }
 }
