@@ -186,6 +186,21 @@
       "solutions": {
         "Java": "leetcode/problems/0217-contains-duplicate/Solution.java"
       }
+    },
+    "0219": {
+      "id": "0219",
+      "title": "Contains Duplicate II",
+      "slug": "contains-duplicate-ii",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Sliding Window"
+      ],
+      "folder": "0219-contains-duplicate-ii",
+      "solutions": {
+        "Java": "leetcode/problems/0219-contains-duplicate-ii/Solution.java"
+      }
     }
   }
 }
