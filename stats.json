@@ -171,6 +171,21 @@
       "solutions": {
         "bash": "leetcode/problems/0195-tenth-line/Solution.txt"
       }
+    },
+    "0217": {
+      "id": "0217",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+      ],
+      "folder": "0217-contains-duplicate",
+      "solutions": {
+        "Java": "leetcode/problems/0217-contains-duplicate/Solution.java"
+      }
     }
   }
 }
