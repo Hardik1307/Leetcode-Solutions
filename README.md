@@ -3,10 +3,10 @@
 A structured repository of LeetCode solutions, automatically synchronized and categorized by topic using [LeetSync](https://github.com/arunbhardwaj/LeetHub-2.0).
 
 ## Progress Dashboard
-![Total Solved](https://img.shields.io/badge/Solved-7-blue) ![Easy](https://img.shields.io/badge/Easy-6-brightgreen) ![Medium](https://img.shields.io/badge/Medium-0-orange) ![Hard](https://img.shields.io/badge/Hard-1-red)
+![Total Solved](https://img.shields.io/badge/Solved-8-blue) ![Easy](https://img.shields.io/badge/Easy-7-brightgreen) ![Medium](https://img.shields.io/badge/Medium-0-orange) ![Hard](https://img.shields.io/badge/Hard-1-red)
 
 ## Topics
-[Array](#array) | [Binary Tree](#binary-tree) | [Bit Manipulation](#bit-manipulation) | [Breadth-First Search](#breadthfirst-search) | [Bucket Sort](#bucket-sort) | [Depth-First Search](#depthfirst-search) | [Geometry](#geometry) | [Hash Table](#hash-table) | [Math](#math) | [Ordered Set](#ordered-set) | [Recursion](#recursion) | [Shell](#shell) | [Sliding Window](#sliding-window) | [Sorting](#sorting) | [Tree](#tree)
+[Array](#array) | [Binary Tree](#binary-tree) | [Bit Manipulation](#bit-manipulation) | [Breadth-First Search](#breadthfirst-search) | [Bucket Sort](#bucket-sort) | [Depth-First Search](#depthfirst-search) | [Geometry](#geometry) | [Hash Table](#hash-table) | [Linked List](#linked-list) | [Math](#math) | [Ordered Set](#ordered-set) | [Recursion](#recursion) | [Shell](#shell) | [Sliding Window](#sliding-window) | [Sorting](#sorting) | [Tree](#tree)
 
 ---
 
@@ -61,6 +61,12 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 | 0217 | [Contains Duplicate](0217-contains-duplicate/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0217-contains-duplicate/Solution.java) |
 | 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0219-contains-duplicate-ii/Solution.java) |
 
+### Linked List
+
+| # | Title | Difficulty | Solutions |
+|---|---|---|---|
+| 0203 | [Remove Linked List Elements](0203-remove-linked-list-elements/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0203-remove-linked-list-elements/Solution.java) |
+
 ### Math
 
 | # | Title | Difficulty | Solutions |
@@ -78,6 +84,7 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 
 | # | Title | Difficulty | Solutions |
 |---|---|---|---|
+| 0203 | [Remove Linked List Elements](0203-remove-linked-list-elements/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0203-remove-linked-list-elements/Solution.java) |
 | 0231 | [Power of Two](0231-power-of-two/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0231-power-of-two/Solution.java) |
 
 ### Shell
