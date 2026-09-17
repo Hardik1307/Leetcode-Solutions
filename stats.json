@@ -232,6 +232,20 @@
       "solutions": {
         "Java": "leetcode/problems/0203-remove-linked-list-elements/Solution.java"
       }
+    },
+    "0290": {
+      "id": "0290",
+      "title": "Word Pattern",
+      "slug": "word-pattern",
+      "difficulty": "Easy",
+      "tags": [
+        "Hash Table",
+        "String"
+      ],
+      "folder": "0290-word-pattern",
+      "solutions": {
+        "Java": "leetcode/problems/0290-word-pattern/Solution.java"
+      }
     }
   }
 }
