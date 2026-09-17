@@ -218,6 +218,20 @@
       "solutions": {
         "Java": "leetcode/problems/0220-contains-duplicate-iii/Solution.java"
       }
+    },
+    "0203": {
+      "id": "0203",
+      "title": "Remove Linked List Elements",
+      "slug": "remove-linked-list-elements",
+      "difficulty": "Easy",
+      "tags": [
+        "Linked List",
+        "Recursion"
+      ],
+      "folder": "0203-remove-linked-list-elements",
+      "solutions": {
+        "Java": "leetcode/problems/0203-remove-linked-list-elements/Solution.java"
+      }
     }
   }
 }
