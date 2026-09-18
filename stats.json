@@ -246,6 +246,19 @@
       "solutions": {
         "Java": "leetcode/problems/0290-word-pattern/Solution.java"
       }
+    },
+    "0176": {
+      "id": "0176",
+      "title": "Second Highest Salary",
+      "slug": "second-highest-salary",
+      "difficulty": "Medium",
+      "tags": [
+        "Database"
+      ],
+      "folder": "0176-second-highest-salary",
+      "solutions": {
+        "SQL": "leetcode/problems/0176-second-highest-salary/Solution.sql"
+      }
     }
   }
 }
