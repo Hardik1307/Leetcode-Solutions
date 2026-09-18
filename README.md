@@ -3,10 +3,10 @@
 A structured repository of LeetCode solutions, automatically synchronized and categorized by topic using [LeetSync](https://github.com/arunbhardwaj/LeetHub-2.0).
 
 ## Progress Dashboard
-![Total Solved](https://img.shields.io/badge/Solved-9-blue) ![Easy](https://img.shields.io/badge/Easy-8-brightgreen) ![Medium](https://img.shields.io/badge/Medium-0-orange) ![Hard](https://img.shields.io/badge/Hard-1-red)
+![Total Solved](https://img.shields.io/badge/Solved-10-blue) ![Easy](https://img.shields.io/badge/Easy-8-brightgreen) ![Medium](https://img.shields.io/badge/Medium-1-orange) ![Hard](https://img.shields.io/badge/Hard-1-red)
 
 ## Topics
-[Array](#array) | [Binary Tree](#binary-tree) | [Bit Manipulation](#bit-manipulation) | [Breadth-First Search](#breadthfirst-search) | [Bucket Sort](#bucket-sort) | [Depth-First Search](#depthfirst-search) | [Geometry](#geometry) | [Hash Table](#hash-table) | [Linked List](#linked-list) | [Math](#math) | [Ordered Set](#ordered-set) | [Recursion](#recursion) | [Shell](#shell) | [Sliding Window](#sliding-window) | [Sorting](#sorting) | [String](#string) | [Tree](#tree)
+[Array](#array) | [Binary Tree](#binary-tree) | [Bit Manipulation](#bit-manipulation) | [Breadth-First Search](#breadthfirst-search) | [Bucket Sort](#bucket-sort) | [Database](#database) | [Depth-First Search](#depthfirst-search) | [Geometry](#geometry) | [Hash Table](#hash-table) | [Linked List](#linked-list) | [Math](#math) | [Ordered Set](#ordered-set) | [Recursion](#recursion) | [Shell](#shell) | [Sliding Window](#sliding-window) | [Sorting](#sorting) | [String](#string) | [Tree](#tree)
 
 ---
 
@@ -41,6 +41,12 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 | # | Title | Difficulty | Solutions |
 |---|---|---|---|
 | 0220 | [Contains Duplicate III](0220-contains-duplicate-iii/) | <span style="color:#e74c3c">Hard</span> | [Java](leetcode/problems/0220-contains-duplicate-iii/Solution.java) |
+
+### Database
+
+| # | Title | Difficulty | Solutions |
+|---|---|---|---|
+| 0176 | [Second Highest Salary](0176-second-highest-salary/) | <span style="color:#f1c40f">Medium</span> | [SQL](leetcode/problems/0176-second-highest-salary/Solution.sql) |
 
 ### Depth-First Search
 
