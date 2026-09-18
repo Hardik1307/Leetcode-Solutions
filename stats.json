@@ -272,6 +272,19 @@
       "solutions": {
         "SQL": "leetcode/problems/0181-employees-earning-more-than-their-managers/Solution.sql"
       }
+    },
+    "0184": {
+      "id": "0184",
+      "title": "Department Highest Salary",
+      "slug": "department-highest-salary",
+      "difficulty": "Medium",
+      "tags": [
+        "Database"
+      ],
+      "folder": "0184-department-highest-salary",
+      "solutions": {
+        "SQL": "leetcode/problems/0184-department-highest-salary/Solution.sql"
+      }
     }
   }
 }
