@@ -3,7 +3,7 @@
 A structured repository of LeetCode solutions, automatically synchronized and categorized by topic using [LeetSync](https://github.com/arunbhardwaj/LeetHub-2.0).
 
 ## Progress Dashboard
-![Total Solved](https://img.shields.io/badge/Solved-11-blue) ![Easy](https://img.shields.io/badge/Easy-9-brightgreen) ![Medium](https://img.shields.io/badge/Medium-1-orange) ![Hard](https://img.shields.io/badge/Hard-1-red)
+![Total Solved](https://img.shields.io/badge/Solved-12-blue) ![Easy](https://img.shields.io/badge/Easy-9-brightgreen) ![Medium](https://img.shields.io/badge/Medium-2-orange) ![Hard](https://img.shields.io/badge/Hard-1-red)
 
 ## Topics
 [Array](#array) | [Binary Tree](#binary-tree) | [Bit Manipulation](#bit-manipulation) | [Breadth-First Search](#breadthfirst-search) | [Bucket Sort](#bucket-sort) | [Database](#database) | [Depth-First Search](#depthfirst-search) | [Geometry](#geometry) | [Hash Table](#hash-table) | [Linked List](#linked-list) | [Math](#math) | [Ordered Set](#ordered-set) | [Recursion](#recursion) | [Shell](#shell) | [Sliding Window](#sliding-window) | [Sorting](#sorting) | [String](#string) | [Tree](#tree)
@@ -48,6 +48,7 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 |---|---|---|---|
 | 0176 | [Second Highest Salary](0176-second-highest-salary/) | <span style="color:#f1c40f">Medium</span> | [SQL](leetcode/problems/0176-second-highest-salary/Solution.sql) |
 | 0181 | [Employees Earning More Than Their Managers](0181-employees-earning-more-than-their-managers/) | <span style="color:#2cbb5d">Easy</span> | [SQL](leetcode/problems/0181-employees-earning-more-than-their-managers/Solution.sql) |
+| 0184 | [Department Highest Salary](0184-department-highest-salary/) | <span style="color:#f1c40f">Medium</span> | [SQL](leetcode/problems/0184-department-highest-salary/Solution.sql) |
 
 ### Depth-First Search
 
