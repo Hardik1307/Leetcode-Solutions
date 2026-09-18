@@ -259,6 +259,19 @@
       "solutions": {
         "SQL": "leetcode/problems/0176-second-highest-salary/Solution.sql"
       }
+    },
+    "0181": {
+      "id": "0181",
+      "title": "Employees Earning More Than Their Managers",
+      "slug": "employees-earning-more-than-their-managers",
+      "difficulty": "Easy",
+      "tags": [
+        "Database"
+      ],
+      "folder": "0181-employees-earning-more-than-their-managers",
+      "solutions": {
+        "SQL": "leetcode/problems/0181-employees-earning-more-than-their-managers/Solution.sql"
+      }
     }
   }
 }
