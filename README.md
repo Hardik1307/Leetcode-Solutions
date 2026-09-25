@@ -3,7 +3,7 @@
 A structured repository of LeetCode solutions, automatically synchronized and categorized by topic using [LeetSync](https://github.com/arunbhardwaj/LeetHub-2.0).
 
 ## Progress Dashboard
-![Total Solved](https://img.shields.io/badge/Solved-12-blue) ![Easy](https://img.shields.io/badge/Easy-9-brightgreen) ![Medium](https://img.shields.io/badge/Medium-2-orange) ![Hard](https://img.shields.io/badge/Hard-1-red)
+![Total Solved](https://img.shields.io/badge/Solved-13-blue) ![Easy](https://img.shields.io/badge/Easy-10-brightgreen) ![Medium](https://img.shields.io/badge/Medium-2-orange) ![Hard](https://img.shields.io/badge/Hard-1-red)
 
 ## Topics
 [Array](#array) | [Binary Tree](#binary-tree) | [Bit Manipulation](#bit-manipulation) | [Breadth-First Search](#breadthfirst-search) | [Bucket Sort](#bucket-sort) | [Database](#database) | [Depth-First Search](#depthfirst-search) | [Geometry](#geometry) | [Hash Table](#hash-table) | [Linked List](#linked-list) | [Math](#math) | [Ordered Set](#ordered-set) | [Recursion](#recursion) | [Shell](#shell) | [Sliding Window](#sliding-window) | [Sorting](#sorting) | [String](#string) | [Tree](#tree)
@@ -17,6 +17,7 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 | 0217 | [Contains Duplicate](0217-contains-duplicate/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0217-contains-duplicate/Solution.java) |
 | 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0219-contains-duplicate-ii/Solution.java) |
 | 0220 | [Contains Duplicate III](0220-contains-duplicate-iii/) | <span style="color:#e74c3c">Hard</span> | [Java](leetcode/problems/0220-contains-duplicate-iii/Solution.java) |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](3550-smallest-index-with-digit-sum-equal-to-index/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/3550-smallest-index-with-digit-sum-equal-to-index/Solution.java) |
 
 ### Binary Tree
 
@@ -82,6 +83,7 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 |---|---|---|---|
 | 0231 | [Power of Two](0231-power-of-two/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0231-power-of-two/Solution.java) |
 | 0836 | [Rectangle Overlap](0836-rectangle-overlap/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0836-rectangle-overlap/Solution.java) |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](3550-smallest-index-with-digit-sum-equal-to-index/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/3550-smallest-index-with-digit-sum-equal-to-index/Solution.java) |
 
 ### Ordered Set
 
