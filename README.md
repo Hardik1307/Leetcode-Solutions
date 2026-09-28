@@ -3,10 +3,10 @@
 A structured repository of LeetCode solutions, automatically synchronized and categorized by topic using [LeetSync](https://github.com/arunbhardwaj/LeetHub-2.0).
 
 ## Progress Dashboard
-![Total Solved](https://img.shields.io/badge/Solved-13-blue) ![Easy](https://img.shields.io/badge/Easy-10-brightgreen) ![Medium](https://img.shields.io/badge/Medium-2-orange) ![Hard](https://img.shields.io/badge/Hard-1-red)
+![Total Solved](https://img.shields.io/badge/Solved-14-blue) ![Easy](https://img.shields.io/badge/Easy-11-brightgreen) ![Medium](https://img.shields.io/badge/Medium-2-orange) ![Hard](https://img.shields.io/badge/Hard-1-red)
 
 ## Topics
-[Array](#array) | [Binary Tree](#binary-tree) | [Bit Manipulation](#bit-manipulation) | [Breadth-First Search](#breadthfirst-search) | [Bucket Sort](#bucket-sort) | [Database](#database) | [Depth-First Search](#depthfirst-search) | [Geometry](#geometry) | [Hash Table](#hash-table) | [Linked List](#linked-list) | [Math](#math) | [Ordered Set](#ordered-set) | [Recursion](#recursion) | [Shell](#shell) | [Sliding Window](#sliding-window) | [Sorting](#sorting) | [String](#string) | [Tree](#tree)
+[Array](#array) | [Binary Tree](#binary-tree) | [Bit Manipulation](#bit-manipulation) | [Bracket Sequences](#bracket-sequences) | [Breadth-First Search](#breadthfirst-search) | [Bucket Sort](#bucket-sort) | [Database](#database) | [Depth-First Search](#depthfirst-search) | [Geometry](#geometry) | [Hash Table](#hash-table) | [Linked List](#linked-list) | [Math](#math) | [Ordered Set](#ordered-set) | [Recursion](#recursion) | [Shell](#shell) | [Sliding Window](#sliding-window) | [Sorting](#sorting) | [Stack](#stack) | [String](#string) | [Tree](#tree)
 
 ---
 
@@ -30,6 +30,12 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 | # | Title | Difficulty | Solutions |
 |---|---|---|---|
 | 0231 | [Power of Two](0231-power-of-two/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0231-power-of-two/Solution.java) |
+
+### Bracket Sequences
+
+| # | Title | Difficulty | Solutions |
+|---|---|---|---|
+| 1614 | [Maximum Nesting Depth of the Parentheses](1614-maximum-nesting-depth-of-the-parentheses/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/1614-maximum-nesting-depth-of-the-parentheses/Solution.java) |
 
 ### Breadth-First Search
 
@@ -118,11 +124,18 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 | 0217 | [Contains Duplicate](0217-contains-duplicate/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0217-contains-duplicate/Solution.java) |
 | 0220 | [Contains Duplicate III](0220-contains-duplicate-iii/) | <span style="color:#e74c3c">Hard</span> | [Java](leetcode/problems/0220-contains-duplicate-iii/Solution.java) |
 
+### Stack
+
+| # | Title | Difficulty | Solutions |
+|---|---|---|---|
+| 1614 | [Maximum Nesting Depth of the Parentheses](1614-maximum-nesting-depth-of-the-parentheses/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/1614-maximum-nesting-depth-of-the-parentheses/Solution.java) |
+
 ### String
 
 | # | Title | Difficulty | Solutions |
 |---|---|---|---|
 | 0290 | [Word Pattern](0290-word-pattern/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0290-word-pattern/Solution.java) |
+| 1614 | [Maximum Nesting Depth of the Parentheses](1614-maximum-nesting-depth-of-the-parentheses/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/1614-maximum-nesting-depth-of-the-parentheses/Solution.java) |
 
 ### Tree
 
