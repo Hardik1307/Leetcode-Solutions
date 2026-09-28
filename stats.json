@@ -114,6 +114,21 @@
     "solved": 12
   },
   "problems": {
+    "1614": {
+      "id": "1614",
+      "title": "Maximum Nesting Depth of the Parentheses",
+      "slug": "maximum-nesting-depth-of-the-parentheses",
+      "difficulty": "Easy",
+      "tags": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "folder": "1614-maximum-nesting-depth-of-the-parentheses",
+      "solutions": {
+        "Java": "leetcode/problems/1614-maximum-nesting-depth-of-the-parentheses/Solution.java"
+      }
+    },
     "3550": {
       "id": "3550",
       "title": "Smallest Index With Digit Sum Equal to Index",
