@@ -314,6 +314,19 @@
       "solutions": {
         "SQL": "leetcode/problems/0184-department-highest-salary/Solution.sql"
       }
+    },
+    "0175": {
+      "id": "0175",
+      "title": "Combine Two Tables",
+      "slug": "combine-two-tables",
+      "difficulty": "Easy",
+      "tags": [
+        "Database"
+      ],
+      "folder": "0175-combine-two-tables",
+      "solutions": {
+        "SQL": "leetcode/problems/0175-combine-two-tables/Solution.sql"
+      }
     }
   }
 }
