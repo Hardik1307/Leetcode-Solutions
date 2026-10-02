@@ -327,6 +327,22 @@
       "solutions": {
         "SQL": "leetcode/problems/0175-combine-two-tables/Solution.sql"
       }
+    },
+    "0101": {
+      "id": "0101",
+      "title": "Symmetric Tree",
+      "slug": "symmetric-tree",
+      "difficulty": "Easy",
+      "tags": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "folder": "0101-symmetric-tree",
+      "solutions": {
+        "Java": "leetcode/problems/0101-symmetric-tree/Solution.java"
+      }
     }
   }
 }
