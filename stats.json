@@ -343,6 +343,23 @@
       "solutions": {
         "Java": "leetcode/problems/0101-symmetric-tree/Solution.java"
       }
+    },
+    "0349": {
+      "id": "0349",
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting"
+      ],
+      "folder": "0349-intersection-of-two-arrays",
+      "solutions": {
+        "Java": "leetcode/problems/0349-intersection-of-two-arrays/Solution.java"
+      }
     }
   }
 }
