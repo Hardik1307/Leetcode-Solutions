@@ -3,10 +3,10 @@
 A structured repository of LeetCode solutions, automatically synchronized and categorized by topic using [LeetSync](https://github.com/arunbhardwaj/LeetHub-2.0).
 
 ## Progress Dashboard
-![Total Solved](https://img.shields.io/badge/Solved-16-blue) ![Easy](https://img.shields.io/badge/Easy-13-brightgreen) ![Medium](https://img.shields.io/badge/Medium-2-orange) ![Hard](https://img.shields.io/badge/Hard-1-red)
+![Total Solved](https://img.shields.io/badge/Solved-17-blue) ![Easy](https://img.shields.io/badge/Easy-14-brightgreen) ![Medium](https://img.shields.io/badge/Medium-2-orange) ![Hard](https://img.shields.io/badge/Hard-1-red)
 
 ## Topics
-[Array](#array) | [Binary Tree](#binary-tree) | [Bit Manipulation](#bit-manipulation) | [Bracket Sequences](#bracket-sequences) | [Breadth-First Search](#breadthfirst-search) | [Bucket Sort](#bucket-sort) | [Database](#database) | [Depth-First Search](#depthfirst-search) | [Geometry](#geometry) | [Hash Table](#hash-table) | [Linked List](#linked-list) | [Math](#math) | [Ordered Set](#ordered-set) | [Recursion](#recursion) | [Shell](#shell) | [Sliding Window](#sliding-window) | [Sorting](#sorting) | [Stack](#stack) | [String](#string) | [Tree](#tree)
+[Array](#array) | [Binary Search](#binary-search) | [Binary Tree](#binary-tree) | [Bit Manipulation](#bit-manipulation) | [Bracket Sequences](#bracket-sequences) | [Breadth-First Search](#breadthfirst-search) | [Bucket Sort](#bucket-sort) | [Database](#database) | [Depth-First Search](#depthfirst-search) | [Geometry](#geometry) | [Hash Table](#hash-table) | [Linked List](#linked-list) | [Math](#math) | [Ordered Set](#ordered-set) | [Recursion](#recursion) | [Shell](#shell) | [Sliding Window](#sliding-window) | [Sorting](#sorting) | [Stack](#stack) | [String](#string) | [Tree](#tree) | [Two Pointers](#two-pointers)
 
 ---
 
@@ -17,7 +17,14 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 | 0217 | [Contains Duplicate](0217-contains-duplicate/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0217-contains-duplicate/Solution.java) |
 | 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0219-contains-duplicate-ii/Solution.java) |
 | 0220 | [Contains Duplicate III](0220-contains-duplicate-iii/) | <span style="color:#e74c3c">Hard</span> | [Java](leetcode/problems/0220-contains-duplicate-iii/Solution.java) |
+| 0349 | [Intersection of Two Arrays](0349-intersection-of-two-arrays/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0349-intersection-of-two-arrays/Solution.java) |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](3550-smallest-index-with-digit-sum-equal-to-index/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/3550-smallest-index-with-digit-sum-equal-to-index/Solution.java) |
+
+### Binary Search
+
+| # | Title | Difficulty | Solutions |
+|---|---|---|---|
+| 0349 | [Intersection of Two Arrays](0349-intersection-of-two-arrays/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0349-intersection-of-two-arrays/Solution.java) |
 
 ### Binary Tree
 
@@ -80,6 +87,7 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 | 0217 | [Contains Duplicate](0217-contains-duplicate/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0217-contains-duplicate/Solution.java) |
 | 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0219-contains-duplicate-ii/Solution.java) |
 | 0290 | [Word Pattern](0290-word-pattern/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0290-word-pattern/Solution.java) |
+| 0349 | [Intersection of Two Arrays](0349-intersection-of-two-arrays/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0349-intersection-of-two-arrays/Solution.java) |
 
 ### Linked List
 
@@ -127,6 +135,7 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 |---|---|---|---|
 | 0217 | [Contains Duplicate](0217-contains-duplicate/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0217-contains-duplicate/Solution.java) |
 | 0220 | [Contains Duplicate III](0220-contains-duplicate-iii/) | <span style="color:#e74c3c">Hard</span> | [Java](leetcode/problems/0220-contains-duplicate-iii/Solution.java) |
+| 0349 | [Intersection of Two Arrays](0349-intersection-of-two-arrays/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0349-intersection-of-two-arrays/Solution.java) |
 
 ### Stack
 
@@ -147,4 +156,10 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 |---|---|---|---|
 | 0100 | [Same Tree](0100-same-tree/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0100-same-tree/Solution.java) |
 | 0101 | [Symmetric Tree](0101-symmetric-tree/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0101-symmetric-tree/Solution.java) |
+
+### Two Pointers
+
+| # | Title | Difficulty | Solutions |
+|---|---|---|---|
+| 0349 | [Intersection of Two Arrays](0349-intersection-of-two-arrays/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0349-intersection-of-two-arrays/Solution.java) |
 
