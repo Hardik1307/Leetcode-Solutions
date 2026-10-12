@@ -3,7 +3,7 @@
 A structured repository of LeetCode solutions, automatically synchronized and categorized by topic using [LeetSync](https://github.com/arunbhardwaj/LeetHub-2.0).
 
 ## Progress Dashboard
-![Total Solved](https://img.shields.io/badge/Solved-17-blue) ![Easy](https://img.shields.io/badge/Easy-14-brightgreen) ![Medium](https://img.shields.io/badge/Medium-2-orange) ![Hard](https://img.shields.io/badge/Hard-1-red)
+![Total Solved](https://img.shields.io/badge/Solved-18-blue) ![Easy](https://img.shields.io/badge/Easy-15-brightgreen) ![Medium](https://img.shields.io/badge/Medium-2-orange) ![Hard](https://img.shields.io/badge/Hard-1-red)
 
 ## Topics
 [Array](#array) | [Binary Search](#binary-search) | [Binary Tree](#binary-tree) | [Bit Manipulation](#bit-manipulation) | [Bracket Sequences](#bracket-sequences) | [Breadth-First Search](#breadthfirst-search) | [Bucket Sort](#bucket-sort) | [Database](#database) | [Depth-First Search](#depthfirst-search) | [Geometry](#geometry) | [Hash Table](#hash-table) | [Linked List](#linked-list) | [Math](#math) | [Ordered Set](#ordered-set) | [Recursion](#recursion) | [Shell](#shell) | [Sliding Window](#sliding-window) | [Sorting](#sorting) | [Stack](#stack) | [String](#string) | [Tree](#tree) | [Two Pointers](#two-pointers)
@@ -32,6 +32,7 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 |---|---|---|---|
 | 0100 | [Same Tree](0100-same-tree/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0100-same-tree/Solution.java) |
 | 0101 | [Symmetric Tree](0101-symmetric-tree/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0101-symmetric-tree/Solution.java) |
+| 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0104-maximum-depth-of-binary-tree/Solution.java) |
 
 ### Bit Manipulation
 
@@ -51,6 +52,7 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 |---|---|---|---|
 | 0100 | [Same Tree](0100-same-tree/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0100-same-tree/Solution.java) |
 | 0101 | [Symmetric Tree](0101-symmetric-tree/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0101-symmetric-tree/Solution.java) |
+| 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0104-maximum-depth-of-binary-tree/Solution.java) |
 
 ### Bucket Sort
 
@@ -73,6 +75,7 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 |---|---|---|---|
 | 0100 | [Same Tree](0100-same-tree/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0100-same-tree/Solution.java) |
 | 0101 | [Symmetric Tree](0101-symmetric-tree/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0101-symmetric-tree/Solution.java) |
+| 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0104-maximum-depth-of-binary-tree/Solution.java) |
 
 ### Geometry
 
@@ -156,6 +159,7 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 |---|---|---|---|
 | 0100 | [Same Tree](0100-same-tree/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0100-same-tree/Solution.java) |
 | 0101 | [Symmetric Tree](0101-symmetric-tree/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0101-symmetric-tree/Solution.java) |
+| 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0104-maximum-depth-of-binary-tree/Solution.java) |
 
 ### Two Pointers
 
