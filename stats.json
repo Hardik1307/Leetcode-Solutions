@@ -376,6 +376,23 @@
       "solutions": {
         "Java": "leetcode/problems/0104-maximum-depth-of-binary-tree/Solution.java"
       }
+    },
+    "0108": {
+      "id": "0108",
+      "title": "Convert Sorted Array to Binary Search Tree",
+      "slug": "convert-sorted-array-to-binary-search-tree",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Divide and Conquer",
+        "Tree",
+        "Binary Search Tree",
+        "Binary Tree"
+      ],
+      "folder": "0108-convert-sorted-array-to-binary-search-tree",
+      "solutions": {
+        "Java": "leetcode/problems/0108-convert-sorted-array-to-binary-search-tree/Solution.java"
+      }
     }
   }
 }
