@@ -393,6 +393,19 @@
       "solutions": {
         "Java": "leetcode/problems/0108-convert-sorted-array-to-binary-search-tree/Solution.java"
       }
+    },
+    "0196": {
+      "id": "0196",
+      "title": "Delete Duplicate Emails",
+      "slug": "delete-duplicate-emails",
+      "difficulty": "Easy",
+      "tags": [
+        "Database"
+      ],
+      "folder": "0196-delete-duplicate-emails",
+      "solutions": {
+        "SQL": "leetcode/problems/0196-delete-duplicate-emails/Solution.sql"
+      }
     }
   }
 }
