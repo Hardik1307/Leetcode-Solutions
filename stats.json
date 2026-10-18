@@ -406,6 +406,23 @@
       "solutions": {
         "SQL": "leetcode/problems/0196-delete-duplicate-emails/Solution.sql"
       }
+    },
+    "0350": {
+      "id": "0350",
+      "title": "Intersection of Two Arrays II",
+      "slug": "intersection-of-two-arrays-ii",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting"
+      ],
+      "folder": "0350-intersection-of-two-arrays-ii",
+      "solutions": {
+        "Java": "leetcode/problems/0350-intersection-of-two-arrays-ii/Solution.java"
+      }
     }
   }
 }
