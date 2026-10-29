@@ -3,10 +3,10 @@
 A structured repository of LeetCode solutions, automatically synchronized and categorized by topic using [LeetSync](https://github.com/arunbhardwaj/LeetHub-2.0).
 
 ## Progress Dashboard
-![Total Solved](https://img.shields.io/badge/Solved-21-blue) ![Easy](https://img.shields.io/badge/Easy-18-brightgreen) ![Medium](https://img.shields.io/badge/Medium-2-orange) ![Hard](https://img.shields.io/badge/Hard-1-red)
+![Total Solved](https://img.shields.io/badge/Solved-22-blue) ![Easy](https://img.shields.io/badge/Easy-19-brightgreen) ![Medium](https://img.shields.io/badge/Medium-2-orange) ![Hard](https://img.shields.io/badge/Hard-1-red)
 
 ## Topics
-[Array](#array) | [Binary Search](#binary-search) | [Binary Search Tree](#binary-search-tree) | [Binary Tree](#binary-tree) | [Bit Manipulation](#bit-manipulation) | [Bracket Sequences](#bracket-sequences) | [Breadth-First Search](#breadthfirst-search) | [Bucket Sort](#bucket-sort) | [Database](#database) | [Depth-First Search](#depthfirst-search) | [Divide and Conquer](#divide-and-conquer) | [Geometry](#geometry) | [Hash Table](#hash-table) | [Linked List](#linked-list) | [Math](#math) | [Ordered Set](#ordered-set) | [Recursion](#recursion) | [Shell](#shell) | [Sliding Window](#sliding-window) | [Sorting](#sorting) | [Stack](#stack) | [String](#string) | [Tree](#tree) | [Two Pointers](#two-pointers)
+[Array](#array) | [Binary Search](#binary-search) | [Binary Search Tree](#binary-search-tree) | [Binary Tree](#binary-tree) | [Bit Manipulation](#bit-manipulation) | [Bracket Sequences](#bracket-sequences) | [Breadth-First Search](#breadthfirst-search) | [Bucket Sort](#bucket-sort) | [Database](#database) | [Depth-First Search](#depthfirst-search) | [Divide and Conquer](#divide-and-conquer) | [Geometry](#geometry) | [Hash Table](#hash-table) | [Linked List](#linked-list) | [Math](#math) | [Ordered Set](#ordered-set) | [Recursion](#recursion) | [Shell](#shell) | [Simulation](#simulation) | [Sliding Window](#sliding-window) | [Sorting](#sorting) | [Stack](#stack) | [String](#string) | [Tree](#tree) | [Two Pointers](#two-pointers)
 
 ---
 
@@ -48,6 +48,7 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 
 | # | Title | Difficulty | Solutions |
 |---|---|---|---|
+| 0067 | [Add Binary](0067-add-binary/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0067-add-binary/Solution.java) |
 | 0231 | [Power of Two](0231-power-of-two/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0231-power-of-two/Solution.java) |
 
 ### Bracket Sequences
@@ -120,6 +121,7 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 
 | # | Title | Difficulty | Solutions |
 |---|---|---|---|
+| 0067 | [Add Binary](0067-add-binary/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0067-add-binary/Solution.java) |
 | 0231 | [Power of Two](0231-power-of-two/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0231-power-of-two/Solution.java) |
 | 0836 | [Rectangle Overlap](0836-rectangle-overlap/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0836-rectangle-overlap/Solution.java) |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](3550-smallest-index-with-digit-sum-equal-to-index/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/3550-smallest-index-with-digit-sum-equal-to-index/Solution.java) |
@@ -142,6 +144,12 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 | # | Title | Difficulty | Solutions |
 |---|---|---|---|
 | 0195 | [Tenth Line](0195-tenth-line/) | <span style="color:#2cbb5d">Easy</span> | [bash](leetcode/problems/0195-tenth-line/Solution.txt) |
+
+### Simulation
+
+| # | Title | Difficulty | Solutions |
+|---|---|---|---|
+| 0067 | [Add Binary](0067-add-binary/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0067-add-binary/Solution.java) |
 
 ### Sliding Window
 
@@ -169,6 +177,7 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 
 | # | Title | Difficulty | Solutions |
 |---|---|---|---|
+| 0067 | [Add Binary](0067-add-binary/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0067-add-binary/Solution.java) |
 | 0290 | [Word Pattern](0290-word-pattern/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0290-word-pattern/Solution.java) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](1614-maximum-nesting-depth-of-the-parentheses/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/1614-maximum-nesting-depth-of-the-parentheses/Solution.java) |
 
