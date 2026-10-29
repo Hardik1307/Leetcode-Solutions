@@ -423,6 +423,22 @@
       "solutions": {
         "Java": "leetcode/problems/0350-intersection-of-two-arrays-ii/Solution.java"
       }
+    },
+    "0067": {
+      "id": "0067",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "difficulty": "Easy",
+      "tags": [
+        "Math",
+        "String",
+        "Bit Manipulation",
+        "Simulation"
+      ],
+      "folder": "0067-add-binary",
+      "solutions": {
+        "Java": "leetcode/problems/0067-add-binary/Solution.java"
+      }
     }
   }
 }
